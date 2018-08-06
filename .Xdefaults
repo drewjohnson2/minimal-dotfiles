@@ -1,0 +1,63 @@
+! URxvt
+
+!URxvt.transparent: true
+!URxvt.shading: 15
+!URxvt*font:9x15, xft:Terminus:pixelsize=8:Bold
+!URxvt.font: xft:monospace:size=10
+!URxvt*font: xft:DejaVu Sans Mono:pixelsize=11.5
+URxvt.scrollBar: false
+URxvt*depth: 27
+URxvt*buffered: true
+#URxvt*foreground: #aea47a
+!URxvt*background: rgba:1900/1c00/2700/9A00
+URxvt*transparent: false
+URxvt*fading: 02%
+URxvt*fadeColor: #191c27
+URxvt*shading: 75
+URxvt*dynamicColors: on
+! Generated with :
+! XRDB2Xreources.py
+!
+
+!*.foreground:  #aea47a
+!*.background: #191c27
+!*.cursorColor: #92805b
+!
+! Black
+!*.color0:      #181818
+!*.color8:      #555555
+!
+! Red
+!*.color1:      #810009
+!*.color9:      #ac3835
+!
+! Green
+!*.color2:      #48513B
+!*.color10:     #48513B
+!
+! Yellow
+!*.color3:      #CC8B3F
+!*.color11:     #CC8B3F
+!
+! Blue
+!*.color4:      #1A2F4C
+!*.color12:     #1A2F4C
+!
+! Magenta
+!*.color5:      #724D7C
+!*.color13:     #724D7C
+!
+! Cyan
+!*.color6:      #5C4F4B
+!*.color14:     #5C4F4B
+!
+! White
+!*.color7:      #AEA47F
+!*.color15:     #AEA47F
+!
+! Bold, Italic, Underline
+!*.colorBD:     #f4f4f4
+!*.colorIT:
+!*.colorUL:
+
+

@@ -1,0 +1,26 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Waterfox-GN4ILZ.desktop
+x-scheme-handler/https=userapp-Waterfox-GN4ILZ.desktop
+x-scheme-handler/ftp=userapp-Waterfox-GN4ILZ.desktop
+x-scheme-handler/chrome=userapp-Waterfox-GN4ILZ.desktop
+text/html=userapp-Waterfox-GN4ILZ.desktop
+application/x-extension-htm=userapp-Waterfox-GN4ILZ.desktop
+application/x-extension-html=userapp-Waterfox-GN4ILZ.desktop
+application/x-extension-shtml=userapp-Waterfox-GN4ILZ.desktop
+application/xhtml+xml=userapp-Waterfox-GN4ILZ.desktop
+application/x-extension-xhtml=userapp-Waterfox-GN4ILZ.desktop
+application/x-extension-xht=userapp-Waterfox-GN4ILZ.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Waterfox-GN4ILZ.desktop;
+x-scheme-handler/https=userapp-Waterfox-GN4ILZ.desktop;
+x-scheme-handler/ftp=userapp-Waterfox-GN4ILZ.desktop;
+x-scheme-handler/chrome=userapp-Waterfox-GN4ILZ.desktop;
+text/html=userapp-Waterfox-GN4ILZ.desktop;
+application/x-extension-htm=userapp-Waterfox-GN4ILZ.desktop;
+application/x-extension-html=userapp-Waterfox-GN4ILZ.desktop;
+application/x-extension-shtml=userapp-Waterfox-GN4ILZ.desktop;
+application/xhtml+xml=userapp-Waterfox-GN4ILZ.desktop;
+application/x-extension-xhtml=userapp-Waterfox-GN4ILZ.desktop;
+application/x-extension-xht=userapp-Waterfox-GN4ILZ.desktop;
+text/x-chdr=vim.desktop;

@@ -1,0 +1,75 @@
+// vim:ts=4:sw=4:et
+{
+    // floating_con with 1 children
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": null,
+    "rect": {
+       "height": 576,
+       "width": 1008,
+       "x": 68,
+       "y": 859
+    },
+    "type": "floating_con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 6,
+            "floating": "user_on",
+            "geometry": {
+               "height": 636,
+               "width": 1020,
+               "x": 0,
+               "y": 0
+            },
+            "name": "drew@sender: ~",
+            "percent": 1,
+            "swallows": [
+               {
+                  "class": "^URxvt$",
+                  "instance": "^neofetch$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    // floating_con with 1 children
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": null,
+    "rect": {
+       "height": 264,
+       "width": 1008,
+       "x": 68,
+       "y": 547
+    },
+    "type": "floating_con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 6,
+            "floating": "user_on",
+            "geometry": {
+               "height": 636,
+               "width": 1020,
+               "x": 0,
+               "y": 0
+            },
+            "name": "bash",
+            "percent": 1,
+            "swallows": [
+               {
+                  "class": "^URxvt$",
+                  "instance": "^clock$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
